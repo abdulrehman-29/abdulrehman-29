@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehman-29&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehman-29" /> </p>
 
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
+<h1 align="center">Hi 👋 , I'm Abdul Rehman.</h1>
 
 <p align="center">WordPress & Frontend Developer | HTML & CSS Enthusiast | Learning JavaScript 🚀</p>
 
