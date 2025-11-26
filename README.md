@@ -13,6 +13,7 @@ Currently, I am learning **JavaScript** to make my projects interactive and dyna
 
 ---
 
+
 ## 🛠️ Skills & Technologies
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
