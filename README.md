@@ -6,7 +6,6 @@
 
 ---
 
-
 ## 💻 About Me
 I am a **passionate WordPress and Frontend Developer** with expertise in **HTML & CSS**.  
 I create responsive, user-friendly, and visually appealing websites.  
